@@ -1,0 +1,15 @@
+p{
+	font-size : 30pt;
+}
+p{
+	color : green;
+}
+body { 
+	background-image: url("https://cdn.hipwallpaper.com/i/3/43/k6nIcf.jpg");
+}
+Table{ border: 1 px solid black ; }
+Table,td{ border: 1px solid black; }
+footer{ 
+background-color:#FF9C33;
+padding: 60px 0px;
+ }
